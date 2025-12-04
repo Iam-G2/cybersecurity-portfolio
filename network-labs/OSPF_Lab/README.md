@@ -34,7 +34,7 @@ Router(config)# router ospf 1
 
 Router(config-router)# router-id 1.1.1.1
 
-Router(config-router)# network 192.168.1.0 0.0.0.255 area 0   #
+Router(config-router)# network 192.168.1.0 0.0.0.255 area 0
 
 Router(config-router)# ipv6 router ospf 10
 
@@ -48,9 +48,9 @@ Router(config-if)# ipv6 ospf 10 area 0
 
 ###### *Verification*
 
-\- Checked adjacency using show ip ospf neighbor
+    \- Checked adjacency using show ip ospf neighbor
 
-\- Verified routes with show ip route ospf
+    \- Verified routes with show ip route ospf
 
 
 
