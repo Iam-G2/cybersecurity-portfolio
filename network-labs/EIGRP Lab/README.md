@@ -125,3 +125,5 @@ EIGRP provides fast convergence and efficient route selection
 Proper verification ensures stable and loop-free routing
 
 My understanding of EIGRP internals is essential for enterprise networks level
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/10ad7bc7-438b-44c0-8dd6-49166a286887" />
+
