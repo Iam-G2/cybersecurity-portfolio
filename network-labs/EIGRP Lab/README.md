@@ -38,13 +38,15 @@ Inter-router links use Gigabit Ethernet or Serial interfaces
 End devices validate full end-to-end communication
 
 Example IP Addressing Scheme
-Device	Interface	IP Address
-R1	G0/0	192.168.1.1/24
-R1	G0/1	10.0.12.1/24
-R2	G0/0	10.0.12.2/24
-R2	G0/1	10.0.23.1/24
-R3	G0/0	10.0.23.2/24
-R3	G0/1	192.168.3.1/24
+| Device | Interface | IP Address     |
+| ------ | --------- | -------------- |
+| R1     | G0/0      | 192.168.1.1/24 |
+| R1     | G0/1      | 10.0.12.1/24   |
+| R2     | G0/0      | 10.0.12.2/24   |
+| R2     | G0/1      | 10.0.23.1/24   |
+| R3     | G0/0      | 10.0.23.2/24   |
+| R3     | G0/1      | 192.168.3.1/24 |
+
 # Configuration Steps
 
 Assign IPv4 addresses to all router interfaces
