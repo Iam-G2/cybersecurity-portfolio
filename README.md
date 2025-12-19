@@ -14,7 +14,7 @@ This repository documents my journey through practical labs and projects as I bu
 🖧 Networking Labs
 - [VLAN Configuration Project](network-labs/VLAN_Config)
 - [OSPF Routing Lab](network-labs/OSPF_Lab)
-- [EIGRP Lab](network-labs/EIGRP-Lab)
+- [EIGRP Lab][(network-labs/EIGRP-Lab)](https://github.com/Iam-G2/cybersecurity-portfolio/tree/d802af59b803fb24b397d95411697344873eec3f/network-labs/EIGRP%20Lab)
 
 🔒 Security Labs
 - [Wireshark Traffic Analysis](security-labs/Wireshark_Analysis)
