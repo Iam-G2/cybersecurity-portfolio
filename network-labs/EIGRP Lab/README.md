@@ -1,4 +1,4 @@
-# EIGRP Routing Lab (CCNA / CCNP Aligned)
+# EIGRP Routing Lab (CCNA / CCNP Standard)
 # Overview
 
 This lab demonstrates the configuration and verification of Enhanced Interior Gateway Routing Protocol (EIGRP) in a multi-router IPv4 environment.
@@ -118,14 +118,10 @@ K-value mismatch
 
 Passive interfaces
 
-# Key Takeaways
+# Key Notes
 
 EIGRP provides fast convergence and efficient route selection
 
 Proper verification ensures stable and loop-free routing
 
-Understanding EIGRP internals is essential for enterprise networks
-
-📂 Portfolio Note
-
-This lab highlights hands-on enterprise routing experience and aligns with real-world scenarios covered in CCNA and CCNP Enterprise certifications.
+My understanding of EIGRP internals is essential for enterprise networks level
